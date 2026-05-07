@@ -1,0 +1,7 @@
+format: jb-book
+root: EDA_Heart_Disease
+
+chapters:
+  - file: 1_model_leakage_demo
+  - file: 2_model_pipeline_cv
+  - file: ExplicacionTareaPipeline
